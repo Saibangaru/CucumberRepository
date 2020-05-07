@@ -1,0 +1,9 @@
+TestRunner\NopCommerceTestRunner.class
+Utilities\WaitHelper.class
+PageObjectModel\CustomerPage.class
+PageObjectModel\SearchCustomerPage.class
+StepDefinition\NopCommerceLoginPage.class
+PageObjectModel\LoginPage.class
+TestRunner\OrangeHrmTestRunner.class
+StepDefinition\BaseClass.class
+StepDefinition\OrangeHrmPage.class
